@@ -2,7 +2,9 @@
 
 #### Create expo app using npm
 
-###### npx create-expo-app appName
+```
+npx create-expo-app appName
+```
 
 #### Install nativewind and its dependencies.
 
@@ -13,7 +15,9 @@
 
 #### initialize tailwindcss(create tailwind.config.js file)
 
-###### npx tailwindcss init
+```
+ npx tailwindcss init
+```
 
 #### Copy below code and paste into tailwind.config.js file
 
